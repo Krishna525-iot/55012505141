@@ -1,0 +1,4 @@
+../Core/Src/input_manager.c:17:6:enqueue_event	2
+../Core/Src/input_manager.c:29:5:dequeue_event	2
+../Core/Src/input_manager.c:40:6:process_input_events	2
+../Core/Src/input_manager.c:171:6:handle_input	12
